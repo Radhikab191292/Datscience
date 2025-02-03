@@ -1,0 +1,44 @@
+A "function" is a standalone block of code that performs a specific task,
+while a "method" is a function that is specifically associated with an object or class, 
+
+  "functions describes the world"
+
+FUNCTION BENIFITS:
+ reusability
+Non redundant
+  organised
+
+Funtions(parameter=arguments(value))
+  hexadecimal=0-9 && a-f to decrease the value if more digits are there
+
+before functions procedural programming was there
+
+  def add_num(*numbers) *args takes multiple parameters
+
+python tutor code visuaizer
+
+  def print_info(**info):
+      for key,value in info.items():
+          print(f"{key}:{value}")
+
+  print(name="radhika" ,age=30)
+
+  mylist = ["apple", "banana", "cherry"]
+
+ thislist = ["apple", "banana", "cherry"]
+print(thislist)
+
+  Range of Indexes
+ thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:5])
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
