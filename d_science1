@@ -31,7 +31,39 @@ print(thislist)
   Range of Indexes
  thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 print(thislist[2:5])
-  
+
+Append Items
+
+thislist = ["apple", "banana", "cherry"]
+thislist.append("orange")
+print(thislist)
+
+Insert Items
+
+thislist = ["apple", "banana", "cherry"]
+thislist.insert(1, "orange")
+print(thislist)
+
+Extend List
+
+ thislist = ["apple", "banana", "cherry"]
+tropical = ["mango", "pineapple", "papaya"]
+thislist.extend(tropical)
+Remove Specified Item
+print(thislist)
+
+
+Remove Specified Item
+
+ thislist = ["apple", "banana", "cherry"]
+thislist.remove("banana")
+print(thislist)
+
+thislist = ["apple", "banana", "cherry"]
+thislist.pop(1)
+print(thislist)
+
+
   
   
 
